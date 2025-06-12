@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b55998f-1747-49ae-bd3e-d890c1ef6371" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/users-app-frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/users-app-frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/users-app-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/users-app-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/users-app-frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users-app-frontend/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/users-app-frontend" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2yMfpJ66WbGUYoGn8CSfKtcU1MG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b55998f-1747-49ae-bd3e-d890c1ef6371" name="Changes" comment="" />
+      <created>1749649543866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749649543866</updated>
+    </task>
+    <servers />
+  </component>
+</project>
